@@ -28,7 +28,7 @@ namespace Calculs
                 Console.WriteLine("Addition ....................... 1");
                 Console.WriteLine("Multiplication ................. 2");
                 Console.WriteLine("Quitter ........................ 0");
-                Console.Write("Choix :                          ");
+                Console.Write("Choix ...........................");
                 choix = Console.ReadLine();
                 val1 = rand.Next(1, 10);
                 val2 = rand.Next(1, 10);
